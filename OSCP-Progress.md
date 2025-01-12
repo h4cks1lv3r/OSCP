@@ -1,3 +1,8 @@
+#This file is meant to be used in Obsidian to use as a checklist for OSCP box completions#
+
+
+
+
 # OSCP Progress Tracker  
 
 ## Overall Progress  
