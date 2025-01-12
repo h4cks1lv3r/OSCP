@@ -18,188 +18,367 @@
 
 ### Week 1 (Fundamental Basics - eJPT Level)  
 #### Day 1  
-- [ ] Windows: Servmon (Easy)  
-- [ ] Linux: Twiggy (Easy)  
+- [x] Windows: Servmon (Easy)  
+  - [x] user.txt  
+  - [x] root.txt  
+- [x] Linux: Twiggy (Easy)  
+  - [x] user.txt  
+  - [x] root.txt  
 
 #### Day 2  
-- [ ] Windows: Support (Easy)  
-- [ ] Linux: CozyHosting (Easy)  
+- [x] Windows: Support (Easy)  
+  - [x] user.txt  
+  - [x] root.txt  
+- [x] Linux: CozyHosting (Easy)  
+  - [x] user.txt  
+  - [x] root.txt  
 
 #### Day 3  
-- [ ] Windows: Helpdesk (Easy)  
+- [ ] Windows: Perfection (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 - [ ] Linux: Soccer (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 4  
-- [ ] Windows: Media (Easy)  
-- [ ] Linux: Data (Easy)  
+- [ ] Windows: Broker (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: PC (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 5  
-- [ ] Windows: Forest (Easy)  
-- [ ] Linux: Pelican (Easy)  
+- [ ] Windows: Worker (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: MetaTwo (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 6  
-- [ ] Windows: Sauna (Easy-Medium)  
-- [ ] Linux: UpDown (Easy)  
+- [ ] Windows: APT (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Investigation (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 7  
-- [ ] Windows: Timelapse (Easy-Medium)  
-- [ ] Linux: Mentor (Easy-Medium)  
+- [ ] Windows: Driver (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Pilgrimage (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
-### Week 2 (Building Fundamentals - eJPT/OSCP Transition)  
+### Week 2 (Building Fundamentals - eCPPT Level)  
 #### Day 8  
-- [ ] Windows: Bruno (Easy-Medium)  
-- [ ] Linux: Astronaut (Easy-Medium)  
+- [ ] Windows: Visual (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Interface (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 9  
-- [ ] Windows: Active (Easy-Medium)  
-- [ ] Linux: Clicker (Medium)  
+- [ ] Windows: Outdated (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Sau (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 10  
-- [ ] Windows: Algernon (Medium)  
-- [ ] Linux: Networked (Medium)  
+- [ ] Windows: Intentions (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Jupiter (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 11  
-- [ ] Windows: Escape (Medium)  
-- [ ] Linux: Stapler (Medium)  
+- [ ] Windows: Resolution (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Analytics (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 12  
-- [ ] Windows: Monteverde (Medium)  
-- [ ] Linux: StreamIO (Medium)  
+- [ ] Windows: Remote (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Encoding (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 13  
-- [ ] Windows: Outdated (Medium)  
-- [ ] Linux: PC (Medium)  
+- [ ] Windows: Multimaster (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Keeper (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 14  
-- [ ] Windows: Absolute (Medium)  
-- [ ] Linux: Cereal (Medium)  
+- [ ] Windows: Acute (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Clicker (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 ### Week 3 (OSCP-Style Challenges)  
 #### Day 15  
 - [ ] Windows: Authority (Medium)  
-- [ ] Linux: Builder (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Busqueda (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 16  
-- [ ] Windows: APT (Medium-Hard)  
-- [ ] Linux: Crane (Medium-Hard)  
+- [ ] Windows: StreamIO (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: MonitorsTwo (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 17  
-- [ ] Windows: Cascade (Medium-Hard)  
-- [ ] Linux: Feedback (Medium-Hard)  
+- [ ] Windows: Search (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Surveillance (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 18  
-- [ ] Windows: Internal (Hard)  
-- [ ] Linux: Magic (Medium-Hard)  
+- [ ] Windows: Scrambled (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Sandworm (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 19  
-- [ ] Windows: Rebound (Hard)  
-- [ ] Linux: Sync (Hard)  
+- [ ] Windows: Sizzle (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Soccer (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 20  
-- [ ] Windows: Kevin (Hard)  
-- [ ] Linux: Law (Hard)  
+- [ ] Windows: Blackfield (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Stocker (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 21  
-- [ ] Windows: Heist (Hard)  
-- [ ] Linux: eLection (Hard)  
+- [ ] Windows: Object (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Ambassador (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 ### Week 4 (Advanced OSCP-Style)  
 #### Day 22  
-- [ ] Windows: Multimaster (Hard)  
-- [ ] Linux: Flight (Hard)  
+- [ ] Windows: Flight (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: PhotoBomb (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 23  
-- [ ] Windows: Blackfield (Hard)  
-- [ ] Linux: RubyDome (Hard)  
+- [ ] Windows: Scrambled (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: MetaTwo (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 24  
-- [ ] Windows: Intelligence (Hard)  
-- [ ] Linux: Intentions (Hard)  
+- [ ] Windows: Timelapse (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Precious (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 25  
-- [ ] Windows: Access (Hard)  
-- [ ] Linux: Dump (Hard)  
+- [ ] Windows: Support (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Shoppy (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 26  
-- [ ] Windows: Craft2 (Hard)  
-- [ ] Linux: SPX (Hard)  
+- [ ] Windows: StreamIO (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Mentor (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 27  
-- [ ] Windows: Symbolic (Very Hard)  
-- [ ] Linux: Codo (Hard)  
+- [ ] Windows: Escape (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: OpenSource (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 28  
-- [ ] Windows: Nagoya (Very Hard)  
-- [ ] Linux: Adagio (Hard)  
+- [ ] Windows: BackendTwo (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: RedPanda (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
-### Week 5 (Expert Level - Beyond OSCP)  
+### Week 5 (Expert Level)  
 #### Day 29  
-- [ ] Windows: Hokkaido (Very Hard)  
-- [ ] Linux: Jordak (Very Hard)  
+- [ ] Windows: Mantis (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Trick (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 30  
-- [ ] Windows: Kyoto (Very Hard)  
-- [ ] Linux: Push (Very Hard)  
+- [ ] Windows: Reel2 (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Support (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 31  
-- [ ] Windows: Nara (Very Hard)  
-- [ ] Linux: Hybrid (Very Hard)  
+- [ ] Windows: BankRobber (Insane)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Timing (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 32  
-- [ ] Windows: Baby (Very Hard)  
-- [ ] Linux: Build (Very Hard)  
+- [ ] Windows: Rabbit (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: UpDown (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 33  
-- [ ] Windows: Baby2 (Very Hard)  
-- [ ] Linux: Kaiju (Very Hard)  
+- [ ] Windows: Vault (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Vessel (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 34  
-- [ ] Windows: Breach (Very Hard)  
-- [ ] Linux: Intercept (Very Hard)  
+- [ ] Windows: Control (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Faculty (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 35  
-- [ ] Windows: Sweep (Very Hard)  
-- [ ] Linux: Race (Very Hard)  
+- [ ] Windows: Registry (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Unicode (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 ### Week 6 (Advanced Specialization)  
 #### Day 36  
-- [ ] Windows: Phantom (Expert)  
-- [ ] Linux: Trusted (Expert)  
+- [ ] Windows: Resourced (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Late (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 37  
-- [ ] Windows: Vault (Expert)  
-- [ ] Linux: Lustrous (Expert)  
+- [ ] Windows: Acute (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Shared (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 38  
-- [ ] Windows: Cerberus (Expert)  
-- [ ] Linux: Reflection (Expert)  
+- [ ] Windows: Perspective (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Noter (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 39  
-- [ ] Windows: Authby (Expert)  
-- [ ] Linux: Exfiltrated (Expert)  
+- [ ] Windows: Hathor (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Pikaboo (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 40  
-- [ ] Windows: Boolean (Expert)  
-- [ ] Linux: Blackgate (Expert)  
+- [ ] Windows: Extension (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Paper (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 41  
-- [ ] Windows: Atom (Expert)  
-- [ ] Linux: Aero (Expert)  
+- [ ] Windows: Reel (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Health (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 42  
-- [ ] Windows: Jeeves (Expert)  
-- [ ] Linux: Monitoring (Expert)  
+- [ ] Windows: Netmon (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Meta (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
-### Week 7 (Remaining Advanced Boxes)  
+### Week 7 (Remaining Advanced)  
 #### Day 43  
-- [ ] Windows: Jacko (Expert)  
-- [ ] Linux: Clue (Expert)  
+- [ ] Windows: Sizzle (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: OpenAdmin (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 44  
-- [ ] Windows: Hutch (Expert)  
-- [ ] Linux: SPX (Expert)  
+- [ ] Windows: Blackfield (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Traverxec (Easy)  
+  - [ ] user.txt  
+  - [ ] root.txt  
 
 #### Day 45  
-- [ ] Windows: Job (Expert)  
-- [ ] Linux: Help (Expert)  
-
+- [ ] Windows: Object (Hard)  
+  - [ ] user.txt  
+  - [ ] root.txt  
+- [ ] Linux: Writer (Medium)  
+  - [ ] user.txt  
+  - [ ] root.txt
